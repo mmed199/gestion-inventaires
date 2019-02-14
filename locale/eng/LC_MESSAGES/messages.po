@@ -1,0 +1,104 @@
+msgid "Vous avez une question, une suggestion... vous cherchez une information ?" 
+msgstr "You have a question, a suggestion... you are looking for information?" 
+ 
+msgid "N'hésitez pas à nous contacter en remplissant le formulaire ci-dessous." 
+msgstr "Feel free to contact us by filling the form below." 
+ 
+msgid "Nous nous engageons à vous répondre dans les plus brefs délais." 
+msgstr "We will answer you in the shortest time." 
+ 
+msgid "Votre nom :" 
+msgstr "Your name:" 
+ 
+msgid "Nom :" 
+msgstr "Last name:" 
+ 
+msgid "Prénom :" 
+msgstr "First name:" 
+ 
+msgid "Adresse e-mail :" 
+msgstr "E-mail address:" 
+ 
+msgid "Numéro de commande :" 
+msgstr "Order number:" 
+ 
+msgid "Référence produit :" 
+msgstr "Product reference:" 
+ 
+msgid "Objet :" 
+msgstr "Subject:" 
+ 
+msgid "Votre message :" 
+msgstr "Your message:" 
+  
+msgid "Document à joindre (CV,...) :" 
+msgstr "Documents to be attached (CV,...):" 
+ 
+msgid "Retour" 
+msgstr "Return" 
+ 
+msgid "Envoyer" 
+msgstr "Send" 
+ 
+msgid "Si vous êtes un professionnel et que vous souhaitez créer un partenariat avec Services4all, écrivez-nous à" 
+msgstr "If you are a professional and you want to create a partnership with Services4all, please email us at" 
+ 
+msgid "Contactez-nous"
+msgstr "Contact us"
+
+msgid "Nous rejoindre"
+msgstr "Join us" 
+
+msgid "Devenir agent commercial"
+msgstr "Becoming an agent" 
+
+msgid "Exercer un métier qui vous plaît !"
+msgstr "Practice a profession you like!" 
+
+msgid "A temps partiel ou à temps complet"
+msgstr "A part-time or full-time" 
+
+msgid "c'est vous qui choisissez !"
+msgstr "it's up to you!" 
+
+msgid "Poste et missions"
+msgstr "Position and duties" 
+
+msgid "Envoyer son CV"
+msgstr "Send CV" 
+
+msgid "recherche toute l'année des agents commerciaux dans toute la France."
+msgstr "Search all year sales agents throughout France." 
+
+msgid "Formation assurée (sur les produits, les techniques de vente etc..)"
+msgstr "Training provided (product, sales techniques etc..)" 
+
+msgid "Nos bijoux sont généralement distribués dans les boutiques spécialisées comme les coiffeurs,"
+msgstr "Our jewelry is usually distributed in specialty stores such as hairdressers," 
+
+msgid "les bijouteries, les boutiques d’accessoires de mode mais aussi dans les ventes par réunion."
+msgstr "jewelers, boutiques fashion accessories but also in the sales meeting." 
+
+msgid "Votre principale mission est d'assurer la relation client et développer"
+msgstr "Your main mission is to ensure the customer relationship and develop" 
+
+msgid "le volume de nos ventes avec la construction de votre réseau local."
+msgstr "the volume of our sales with the construction of your local network." 
+
+msgid "Vous serez notamment en charge de :"
+msgstr "You will be in charge of:" 
+
+msgid "Cibler les entreprises, et/ou les commerces spécialisés dans votre région."
+msgstr "Target companies, and / or specialty shops in your area." 
+
+msgid "Prospecter sur RDV."
+msgstr "Prospect appointment." 
+
+msgid "Réaliser l'ensemble des tâches administratives liées à votre activité commerciale."
+msgstr "Perform all administrative tasks related to your business." 
+
+msgid "Assurer les réunions bijoux/ventes expos ainsi que le suivi client avec vos boutiques."
+msgstr "Ensure jewelry meetings / exhibitions sales and customer follow up with your shopping." 
+msgid "A temps partiel ou à temps complet," 
+msgstr "A part-time or full-time," 
+ 

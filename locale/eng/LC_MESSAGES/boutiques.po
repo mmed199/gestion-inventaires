@@ -1,0 +1,24 @@
+msgid "Créateurs Bijoux" 
+msgstr "Creators jewelry" 
+ 
+msgid "Créateurs Bijoux: trouvez votre créateur Bijoux sur Services4all.fr. Consulter la liste de nos créateurs Bijoux sur notre site internet! " 
+msgstr "Creators jewelry: find your designer jewelry on Services4all.fr. Consult the list of our jewelry designers on our website! " 
+ 
+msgid "Créateur, createurs, Bijoux" 
+msgstr "Creator, designers, jewelry" 
+ 
+msgid "Tous les créateurs Bijoux" 
+msgstr "All jewelry designers" 
+ 
+msgid "Inscrit le :" 
+msgstr "Registered the:" 
+ 
+msgid "Ville :" 
+msgstr "City:" 
+ 
+msgid "Produits" 
+msgstr "Products" 
+ 
+msgid "Voir ses articles" 
+msgstr "See articles" 
+ 

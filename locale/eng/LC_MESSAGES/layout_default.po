@@ -1,0 +1,282 @@
+msgid "Mon panier" 
+msgstr "My cart" 
+ 
+msgid "Articles" 
+msgstr "Blogs" 
+ 
+msgid "Montant" 
+msgstr "Amount" 
+ 
+msgid "Mon compte" 
+msgstr "My account" 
+ 
+msgid "Inscription" 
+msgstr "Sign Up" 
+ 
+msgid "Connexion" 
+msgstr "Connect" 
+ 
+msgid "Contactez-nous" 
+msgstr "Contact us" 
+ 
+msgid "Mes bijoux préférés" 
+msgstr "My favorite jewelry" 
+ 
+msgid "Mes bijoux préférés" 
+msgstr "My favorite jewelry" 
+ 
+msgid "parrainage cadeau à gagner" 
+msgstr "sponsorship gift to win" 
+ 
+msgid "Parrainage" 
+msgstr "Refer a friend" 
+ 
+msgid "Moyens paiements Services4all" 
+msgstr "Means payments Services4all" 
+ 
+msgid "Paiement sécurisé" 
+msgstr "Secure payments" 
+  
+msgid "à partir de" 
+msgstr "from" 
+   
+msgid "Paiement par chèque" 
+msgstr "Payment by check" 
+ 
+msgid "Livraison, délai et tarifs" 
+msgstr "Delivery, time and rates" 
+  
+msgid "Commandez en toute sérénité" 
+msgstr "Order with confidence" 
+   
+msgid "Qualité garantie 2 ans" 
+msgstr "Quality guarantee 2 years" 
+   
+msgid "Satisfait ou remboursé" 
+msgstr "Satisfied or reimbursed" 
+    
+msgid "Paiement 100% sécurisé" 
+msgstr "100% secure payment" 
+     
+msgid "Retour de votre article" 
+msgstr "Back to your article" 
+ 
+msgid "Moyens paiements Services4all : carte bleue, paypal chèque" 
+msgstr "Means payments Services4all: carte bleue, paypal cheque" 
+ 
+msgid "Livraison bijoux" 
+msgstr "Shipping jewelry" 
+ 
+msgid "contact service client" 
+msgstr "contact customer service" 
+ 
+msgid "Contact service client Services4all" 
+msgstr "Contact customer service Services4all" 
+ 
+msgid "Garanties et Services" 
+msgstr "Warranty and service" 
+ 
+msgid "Suivez-nous sur twitter" 
+msgstr "Follow us on twitter" 
+ 
+msgid "Blog de Services4all" 
+msgstr "Services4all blog" 
+ 
+msgid "Blog Services4all" 
+msgstr "Blog Services4all" 
+ 
+msgid "Retrouvez Services4all sur Facebook" 
+msgstr "Find Services4all on Facebook" 
+ 
+msgid "Retrouvez Services4all sur Youtube" 
+msgstr "Find Gagan on Youtube" 
+ 
+msgid "Partenaires Services4all" 
+msgstr "Partners Beka" 
+ 
+msgid "nos partenaires : bijoux" 
+msgstr "our partners: jewelry" 
+ 
+msgid "Nos partenaires" 
+msgstr "Our partners" 
+ 
+msgid "Contactez-nous" 
+msgstr "Contact us" 
+ 
+msgid "Conditions générales" 
+msgstr "General terms and conditions" 
+ 
+msgid "Mentions légales" 
+msgstr "Imprint" 
+ 
+msgid "Qui-sommes nous?" 
+msgstr "About us" 
+ 
+msgid "Nous rejoindre" 
+msgstr "Join us" 
+ 
+msgid "Espace presse" 
+msgstr "Press area" 
+  
+msgid "Baguier" 
+msgstr "Ring" 
+  
+msgid "Conseils d’entretien des bijoux" 
+msgstr "Jewelry Care" 
+ 
+msgid "Partenaires" 
+msgstr "Partners" 
+
+ msgid "Accueil" 
+msgstr "Home" 
+ 
+msgid "collection bijoux satin argent" 
+msgstr "Jewelry silver satin collection" 
+ 
+msgid "Satin-Argent" 
+msgstr "Satin-Silver" 
+ 
+msgid "Accueil" 
+msgstr "Home" 
+ 
+msgid "Argent" 
+msgstr "Silver" 
+ 
+msgid "collection bijoux argent laqué" 
+msgstr "lacquered silver jewelry collection" 
+ 
+msgid "Argent Laqué" 
+msgstr "Silver lacquered" 
+ 
+msgid "collection bijoux pièrres argent" 
+msgstr "stones silver jewelry collection" 
+ 
+msgid "Pierres-Argent" 
+msgstr "Stones-silver" 
+ 
+msgid "collection bijoux cuir argent" 
+msgstr "Jewelry Silver leather collection" 
+ 
+msgid "Cuir-Argent" 
+msgstr "Leather-Silver" 
+ 
+msgid "collection bijoux Pierres Précieuses" 
+msgstr "Precious stones jewelry collection" 
+ 
+msgid "Pierres Précieuses" 
+msgstr "Precious stones" 
+ 
+msgid "Catégories" 
+msgstr "Categories" 
+ 
+msgid "Collier" 
+msgstr "Necklace" 
+ 
+msgid "Pendentif" 
+msgstr "Pendant" 
+ 
+msgid "Boucle d'oreille" 
+msgstr "Earring" 
+ 
+msgid "Bague" 
+msgstr "Ring" 
+ 
+msgid "Bouton de Manchette" 
+msgstr "Cufflink" 
+ 
+msgid "Bijoux Saint Valentin" 
+msgstr "Valentine's day jewelry" 
+ 
+msgid "Promotions" 
+msgstr "On sale" 
+ 
+msgid "Bijoux à graver" 
+msgstr "Jewelry for engraving" 
+
+msgid "Créateurs" 
+msgstr "Jewelry designer" 
+ 
+msgid "Accès Pro" 
+msgstr "Access Pro" 
+ 
+msgid "Votre mail" 
+msgstr "Your mail" 
+ 
+msgid "Saisissez votre email" 
+msgstr "Enter your email" 
+ 
+msgid "Pour recevoir nos actus, nos réductions" 
+msgstr "To receive our news, our reductions" 
+ 
+msgid "S'ABONNER à LA NEWSLETTER" 
+msgstr "SUBSCRIBE TO NEWSLETTER" 
+ 
+msgid "FEMME" 
+msgstr "WOMAN" 
+  
+msgid "HOMME" 
+msgstr "MAN" 
+  
+msgid "Se déconnecter" 
+msgstr "Disconnect" 
+ 
+msgid "Retrouvez Services4all sur " 
+msgstr "Find Gagan on " 
+ 
+msgid "collections-bijoux" 
+msgstr "collections-jewelry" 
+ 
+msgid "satin-argent" 
+msgstr "satin-silver" 
+
+msgid "Les bijoux pour femme, homme et enfant sur Services4all : place de vente pour bijoutiers créateur Services4all, vous propose une gamme de création de bijoux en diamant et en or mais aussi ses bracelets en argent." 
+msgstr "Man, woman and child on Services4all jewellery: sale for creative Jewelers Services4all square offers a range of diamond and gold jewellery, but also its silver bracelets." 
+ 
+msgid "Découvrez également nos bagues de fiançailles, alliances et autres bagues en argent et toutes les offres et collections de produits qui vous sont proposées." 
+msgstr "Also discover our engagement rings, alliances and other rings in silver and all offers and collections of products that are available to you." 
+ 
+msgid "bijoux" 
+msgstr "jewelry" 
+ 
+msgid "argent" 
+msgstr "silver" 
+ 
+msgid "argent-laque" 
+msgstr "silver-lacquer" 
+ 
+msgid "pierres-argent" 
+msgstr "stones-silver" 
+ 
+msgid "cuir-argent" 
+msgstr "leather-silver" 
+ 
+msgid "pierres-precieuses" 
+msgstr "precious-stones" 
+
+msgid "bracelet" 
+msgstr "bracelet" 
+ 
+msgid "collier" 
+msgstr "necklace" 
+ 
+msgid "bijoux" 
+msgstr "jewelry" 
+ 
+msgid "pendentif" 
+msgstr "pendant" 
+ 
+msgid "boucle-oreille" 
+msgstr "earring" 
+ 
+msgid "bijoux" 
+msgstr "jewelry" 
+ 
+msgid "bague" 
+msgstr "ring" 
+ 
+msgid "bouton-manchette" 
+msgstr "button-cuff" 
+
+msgid "Services4all &amp; Co - Bijoux argent 925 - cuir ou pierres naturelles - bague, bracelet, collier, boucles - Paris" 
+msgstr "Daisy &amp; Co - silver jewelry 925 - leather or natural stones - ring, bracelet, necklace, earrings - Paris" 
+ 

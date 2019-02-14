@@ -1,0 +1,174 @@
+msgid "Mon panier" 
+msgstr "My cart" 
+ 
+msgid "Mon panier" 
+msgstr "My cart" 
+ 
+msgid "Si vous avez un bon de réduction, vous pourrez le saisir et visualiser vos avantages "parrainage" lors de la validation finale de votre commande." 
+msgstr "If you have a discount coupon, you can enter it and visualize your 'sponsorship' benefits during the final validation of your order." 
+ 
+msgid "Mon panier" 
+msgstr "My cart" 
+ 
+msgid "Mes coordonnées" 
+msgstr "My contact information" 
+ 
+msgid "Récapitulatif" 
+msgstr "Summary" 
+ 
+msgid "Paiement" 
+msgstr "Payment" 
+ 
+msgid "Votre panier est vide." 
+msgstr "Your shopping cart is empty." 
+ 
+msgid "Visitez les differentes catégories, et cliquez sur "Ajouter au panier" devant le produit que vous désirez commander." 
+msgstr "Visit the different categories and click on 'Add to Cart' before the product you want to order." 
+ 
+msgid "« Continuer mes achats" 
+msgstr "« Continue shopping" 
+ 
+msgid "Mes articles" 
+msgstr "My articles" 
+ 
+msgid "Désignation" 
+msgstr "Designation" 
+ 
+msgid "Vendeur" 
+msgstr "Seller" 
+ 
+msgid "Ville" 
+msgstr "City" 
+ 
+msgid "Prix" 
+msgstr "Price" 
+ 
+msgid "Quantité" 
+msgstr "Quantity" 
+ 
+msgid "Référence :" 
+msgstr "Reference:" 
+ 
+msgid "Sous total :" 
+msgstr "Subtotal:" 
+ 
+msgid "Choisir le mode de livraison" 
+msgstr "Choose the mode of delivery" 
+ 
+msgid "Mondial relai - Livraison contre signature - 3 à 4 jours - 3,90€" 
+msgstr "Global relay - delivery against signature-3 to 4 days-3,90€" 
+ 
+msgid "Colissimo - Livraison contre signature - 3 à 4 jours - 6,90€" 
+msgstr "Colissimo - Delivery against signature-3 to 4 days € 6.90" 
+ 
+msgid "Remise en main propre" 
+msgstr "Hand-delivery" 
+ 
+msgid "Frais de livraison :" 
+msgstr "Delivery charges:" 
+ 
+msgid "article(s)" 
+msgstr "Article (s)" 
+ 
+msgid "vendeur" 
+msgstr "seller" 
+ 
+msgid "TOTAL :" 
+msgstr "TOTAL:" 
+ 
+msgid "Bon de réduction" 
+msgstr "Discount voucher" 
+ 
+msgid "Code :" 
+msgstr "Code:" 
+ 
+msgid "Recalculer" 
+msgstr "Recalculate" 
+ 
+msgid "Livraison" 
+msgstr "Delivery" 
+ 
+msgid "Adresse de livraison" 
+msgstr "Delivery address" 
+ 
+msgid "Adresse de livraison :" 
+msgstr "Delivery address:" 
+ 
+msgid "Mettre à jour" 
+msgstr "Update" 
+ 
+msgid "Adresse de facturation :" 
+msgstr "Billing address:" 
+ 
+msgid "Mettre à jour" 
+msgstr "Update" 
+ 
+msgid "Ajouter une nouvelle adresse" 
+msgstr "Add a new address" 
+ 
+msgid "Si vous voulez nous laisser un message à propos de votre commande, merci de l'écrire ici." 
+msgstr "If you want to leave us a message about your order, please write it here." 
+ 
+msgid "article" 
+msgstr "Article" 
+ 
+msgid "Mode de paiement" 
+msgstr "Mode of payment" 
+ 
+msgid "Veuillez choisir votre mode de paiement" 
+msgstr "Please choose your method of payment" 
+ 
+msgid "Merci de choisir votre moyen de paiement afin de régler la somme de" 
+msgstr "Please choose your payment method in order to set the amount of" 
+ 
+msgid "Je règle par Carte Bancaire" 
+msgstr "I pay by credit card" 
+ 
+msgid "Je règle par PayPal" 
+msgstr "I pay by PayPal" 
+ 
+msgid "Je règle par chèque" 
+msgstr "I pay by cheque" 
+ 
+msgid "J'accepte et je reconnais avoir pris connaissance des conditions générales de ventes de Services4all" 
+msgstr "I accept and acknowledge having read the terms sales of Daisy" 
+ 
+msgid "Payer ma commande" 
+msgstr "Pay my order" 
+ 
+msgid "Gravure offerte à l'occasion de la fête des mères." 
+msgstr "Engraving available on the occasion of mother's day." 
+ 
+msgid "1ère ligne" 
+msgstr "1st line" 
+ 
+msgid "2ème ligne" 
+msgstr "2nd line" 
+  
+msgid "NOUVEAU CLIENT" 
+msgstr "NEW CLIENT" 
+   
+msgid "Créez votre compte" 
+msgstr "Create your account" 
+    
+msgid "Adresse e-mail :" 
+msgstr "E-mail address:" 
+    
+msgid "Créez mon compte" 
+msgstr "Create my account" 
+   
+msgid "Vous avez déjà un compte Services4all" 
+msgstr "You already have an account Services4all" 
+  
+msgid "E-mail :" 
+msgstr "E-mail:" 
+   
+msgid "Mot de passe :" 
+msgstr "Password:" 
+   
+msgid "Valider" 
+msgstr "Validate" 
+   
+msgid "Vous avez oublié votre mot de passe ?" 
+msgstr "Forgot your password?" 
+ 

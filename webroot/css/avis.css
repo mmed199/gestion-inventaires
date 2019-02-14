@@ -1,0 +1,21 @@
+.avis_top{
+	height:4px;
+	width:415px;
+	background-image:url(/data/img/avis/avis-top.jpg);
+	background-repeat: no-repeat;
+}
+.avis_midle{
+	width:395px;
+	background-image:url(/data/img/avis/avis-midle.jpg);
+	background-repeat: repeat-y;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.avis_down{
+	width:415px;
+	height:5px;
+	background-image:url(/data/img/avis/avis-down.jpg);
+	background-repeat: no-repeat;
+}

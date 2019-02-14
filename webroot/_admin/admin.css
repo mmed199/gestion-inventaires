@@ -1,0 +1,18 @@
+.result{
+	color:green;
+	font-weight:bold; 
+}
+#getTestData{
+	z-index:3;
+	position:fixed;
+	right:400px;
+} 
+.tannonce{
+	margin:20px; 
+	padding:3px;
+	border:2px solid green ; 
+}
+.tannonce .validate{
+	display:inline-block;
+	margin-right:0px;
+}

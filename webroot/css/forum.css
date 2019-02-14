@@ -1,0 +1,159 @@
+.forum {
+	text-align: left;
+}
+
+.forum_header{
+/*	padding: 2px 0px;
+	margin-bottom: 4px;
+	font-size: 13px;
+	font-weight: bold;
+	border-bottom: 2px dotted #e2e2e2; 
+*/
+	line-height: 30px;
+	background: #fff url('/images/site/bgth_violet.gif') bottom center repeat-x;
+	text-align: left;
+	padding: 0px 5px 0px 5px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 13px;
+	margin-bottom: 4px;
+}
+
+.forum_home{
+	width: 100%;
+	padding: 10px 0px 10px 0px;
+	margin-bottom: 4px;
+	background: #fff;
+	border-bottom: 1px solid #E2E2E2;
+}
+
+.forum_home a{
+	color: #5D5D5D;
+}
+
+.forum_home .titre a{
+	color: #93117e;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.forum_home .titre a:hover{
+	text-decoration: underline;
+}
+
+.forum_top{
+	/*padding: 2px 0px;
+	margin-bottom: 4px;
+	font-size: 13px;
+	font-weight: bold;
+	border-bottom: 2px solid #E2E2E2;*/
+	line-height: 30px;
+	background: #fff url('/images/site/bgth_violet.gif') bottom center repeat-x;
+	text-align: left;
+	padding: 0px 5px 0px 5px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 13px;
+	margin-bottom: 4px;
+}
+
+.forum .dernier_message{
+	width: 160px;
+	padding: 0px 7px;
+	text-align: center;	
+}
+
+.forum .dernier_message a{
+	color: #5D5D5D;
+}
+
+.forum .nb_post{
+	width: 80px;
+	padding: 0px 7px;
+	text-align: center;
+}
+
+.forum_sujet{
+	padding: 5px 0px 5px 0px;
+	margin-bottom: 4px;
+	border-bottom: 1px solid #E2E2E2;
+	background: #fff;
+}
+
+.forum_sujet .titre{
+	color: #93117e;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+}
+
+.forum .titre_sujet{
+	color: #5D5D5D;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 2px 0px 7px 0px;
+}
+
+.forum .post {
+	background: #fff;
+	border: 1px solid #ddd;
+	margin: 0px 0px 6px 0px;
+}
+
+.forum .post .gauche{
+	width: 160px;
+	background : #F0F0F0;
+	padding: 8px 6px 8px 6px;
+	font-size: 12px;
+	text-align: center;
+}
+
+.forum .post .gauche a{
+	color: #93117e;
+	text-decoration: none;
+}
+
+.forum .post .username{
+	font-size: 13px;
+	font-weight: bold;
+	color: #93117e;
+	text-align: center;
+}
+
+.forum .post .gauche img {
+	display: block;
+	position: relative;
+	margin: 6px auto 6px auto;
+}
+
+.forum .post .gauche .info_user{
+	width: 80%;
+	position: relative;
+	margin: 0px auto 0px auto;
+	text-align: left;
+}
+
+.forum .post .username a:hover{
+	text-decoration: underline;
+}
+
+.forum .post .droite{
+	padding: 10px;
+}
+
+.forum .post .date_post{
+	font-size: 11px;
+	color: #8A8A8A;
+	text-align: left;
+	border-bottom: 1px dotted #E6E6E6;
+	padding: 2px;
+	margin-bottom: 15px;
+}
+
+
+/***la class form***/
+.forum .form input[type=text], .forum .form textarea{
+	width: 700px;
+	margin-top: 2px;
+	margin-bottom: 10px;
+} 

@@ -1,0 +1,54 @@
+msgid "Services4all &amp; Co - Bijoux argent 925 - cuir ou pierres naturelles - bague, bracelet, collier, boucles - Paris" 
+msgstr "Daisy &amp; Co - silver jewelry 925 - leather or natural stones - ring, bracelet, necklace, earrings - Paris" 
+ 
+msgid "Mon panier" 
+msgstr "My cart" 
+ 
+msgid "Articles" 
+msgstr "Blogs" 
+ 
+msgid "Montant" 
+msgstr "Amount" 
+ 
+msgid "Mon compte" 
+msgstr "My account" 
+ 
+msgid "Se déconnecter" 
+msgstr "Disconnect" 
+ 
+msgid "Contactez-nous" 
+msgstr "Contact us" 
+ 
+msgid "Mes bijoux préférés" 
+msgstr "My favorite jewelry" 
+ 
+msgid "Mes bijoux préférés" 
+msgstr "My favorite jewelry" 
+ 
+msgid "parrainage cadeau à gagner" 
+msgstr "sponsorship gift to win" 
+ 
+msgid "Parrainage" 
+msgstr "Sponsorship" 
+ 
+msgid "Accueil" 
+msgstr "Home" 
+ 
+msgid "Mes informations" 
+msgstr "My information" 
+ 
+msgid "Articles" 
+msgstr "Blogs" 
+ 
+msgid "Mes commandes" 
+msgstr "My orders" 
+ 
+msgid "Commandes clients" 
+msgstr "Customer orders" 
+ 
+msgid "Parrainage" 
+msgstr "Sponsorship" 
+ 
+msgid "Bons d'achat" 
+msgstr "Vouchers" 
+ 

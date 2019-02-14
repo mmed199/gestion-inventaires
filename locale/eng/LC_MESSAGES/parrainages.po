@@ -1,0 +1,60 @@
+msgid "E-mail parrainée n°1 :" 
+msgstr "Email sponsored n ° 1:" 
+ 
+msgid "E-mail parrainée n°2 :" 
+msgstr "Email sponsored n ° 2:" 
+ 
+msgid "E-mail parrainée n°3 :" 
+msgstr "Email sponsored n ° 3:" 
+ 
+msgid "E-mail parrainée n°4 :" 
+msgstr "Email sponsored n ° 4:" 
+ 
+msgid "E-mail parrainée n°5 :" 
+msgstr "Email sponsored n ° 5:" 
+ 
+msgid "Message :" 
+msgstr "Message:" 
+ 
+msgid "Parrainer mes amis" 
+msgstr "Sponsor my friends" 
+ 
+msgid "Vous pouvez parrainer jusqu'à 5 amis en même temps" 
+msgstr "You can sponsor up to 5 friends at the same time" 
+ 
+msgid "Il n'y a pas de limite d'amis parrainés" 
+msgstr "There is no limit of sponsored friends" 
+ 
+msgid " Envoyer " 
+msgstr " Send " 
+ 
+msgid " Parrainez vos amis, votre famille et vos proches, devenez ambassadeur d' Services4all & Co et partagez les gains. " 
+msgstr " Refer your friends, family and loved ones, become an ambassador with Services4all & Co and share some gains. " 
+  
+msgid " Services4all & Co offre à ses membres un programme de parrainage communautaire et multi-niveaux, reposant sur le partage des profits entre le site et ses membres. " 
+msgstr " Services4all & Co offers to its members to participate in a community sponsorship program, based on the sharing of profits between the website and its members. " 
+   
+msgid " Grâce à ce système innovant, 10% du prix hors taxe est reversé aux parrains de l'acheteur et du vendeur ! " 
+msgstr " With this innovative system, 10% of the pre-tax price is redistributed as 'commission ' to your TEAMMATE, at each level ! " 
+    
+msgid " Un membre percevra ainsi un pourcentage des transactions effectuées non seulement par ses filleuls directs, mais aussi par ses filleuls indirects (jusqu'à 8 niveaux), et cela sans limitation dans le temps. " 
+msgstr " A Team member receives a percentage for each transactions not only through his direct referrals but also through his indirect (up to 8 levels), no limit in time. " 
+    
+msgid " Un concept inédit appliqué à l'univers du bijou, une façon astucieuse de gagner de l'argent tout en se faisant plaisir ! " 
+msgstr " This is a new concept for the world of jewelry and through an internet website, a smart way for you to make money while having fun! " 
+ 
+msgid "Parrainez vos amis, votre famille et vos proches, devenez ambassadeur d' Services4all & Co et partagez les gains." 
+msgstr "Refer your friends, your family and your loved ones, become an Ambassador of Daisy &amp; Co and share gains." 
+ 
+msgid "Services4all & Co offre à ses membres un programme de parrainage communautaire et multi-niveaux, reposant sur le partage des profits entre le site et ses membres." 
+msgstr "Daisy &amp; Co offers its members a community sponsorship and program multi-level, based on the sharing of profits between the site and its members." 
+ 
+msgid "Grâce à ce système innovant, 10% du prix hors taxe est reversé aux parrains de l'acheteur et du vendeur !" 
+msgstr "Thanks to this innovative system, 10% of the price excluding tax is refunded to sponsors of the buyer and the seller!" 
+ 
+msgid "Un membre percevra ainsi un pourcentage des transactions effectuées non seulement par ses filleuls directs, mais aussi par ses filleuls indirects (jusqu'à 8 niveaux), et cela sans limitation dans le temps." 
+msgstr "A member receive as a percentage of transactions not only by its direct referrals, but by its indirect referrals (up to 8 levels) also, and without limitation in time." 
+ 
+msgid "Un concept inédit appliqué à l'univers du bijou, une façon astucieuse de gagner de l'argent tout en se faisant plaisir !" 
+msgstr "A new concept applied to the universe of jewellery, a clever way to earn money while being fun!" 
+ 

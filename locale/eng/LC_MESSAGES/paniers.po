@@ -1,0 +1,6 @@
+msgid "Article(s)" 
+msgstr "Article (s)" 
+ 
+msgid "Montant:" 
+msgstr "Amount:" 
+ 

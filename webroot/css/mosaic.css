@@ -1,0 +1,69 @@
+@charset "utf-8";
+/*
+	Mosaic - Sliding Boxes and Captions jQuery Plugin
+	Version 1.0.1
+	www.buildinternet.com/project/mosaic
+	
+	By Sam Dunn / One Mighty Roar (www.onemightyroar.com)
+	Released under MIT License / GPL License
+*/
+
+/*General Mosaic Styles*/
+.mosaic-block {
+	float:left;
+	position:relative;
+	overflow:hidden;
+	width:152px;
+	height:152px;
+	margin:6px 5px 6px 6px;
+	background:#EDEDED url(../img/progress.gif) no-repeat center center;
+	border:1px solid #fff;
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.3);
+}
+
+	.mosaic-backdrop {
+		display:none;
+		position:absolute;
+		top:0;
+		height:100%;
+		width:100%;
+		background:#fff;
+	}
+	.mosaic-backdrop img {
+		width:152px;
+	}
+	
+	.mosaic-overlay {
+		display:none;
+		z-index:5;
+		position:absolute;
+		width:100%;
+		height:100%;
+		background:#444;
+	}
+		
+	.bar2 .mosaic-overlay {
+			bottom:-30px;
+			height:65px;
+			padding: 5px 10px;
+			opacity:0.6;
+			-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+			filter:alpha(opacity=60);
+		}
+			
+		.bar2 .mosaic-overlay:hover {
+			opacity:0.9;
+			-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+			filter:alpha(opacity=90);
+		}
+		
+		.details{ position:relative; height:152px; width:152px;}
+		.details h4{ font:300 14px 'Helvetica Neue', Helvetica, Arial, sans-serif; display:block; width:120px; height:35px; line-height:35px; overflow:hidden; letter-spacing:0.1em; color:#fff; text-shadow:1px 1px 0 rgb(0,0,0); }
+		.details .infos_prod{ font:300 12px 'Lucida Grande', Tahoma, Verdana, sans-serif; margin-top:5px; display:block; width:140px; color:#aaa; text-shadow:1px 1px 0 rgb(0,0,0);}
+		.details .price{color:#F20048; font-size:18px; font-weight:bolder; position:absolute; top:7px; right:26px; display:block; background-color:#999; border:1px solid #333; padding:2px;}
+		.details a{ text-decoration:none; }
+		
+		.details .neuf {  display: block; position: absolute;left: 0px;top: 0px;z-index:100;width:45px;}
+		
+	#image-1-wrapper .neuf { z-index:100;position: absolute;left: 10px;top: 0px;}
+	

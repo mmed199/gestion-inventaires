@@ -1,0 +1,3 @@
+msgid "Conditions générales utilisation Services4all" 
+msgstr "Conditions general use Daisy" 
+ 

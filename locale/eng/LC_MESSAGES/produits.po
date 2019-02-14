@@ -1,0 +1,200 @@
+msgid "Vous cherchez quelque chose ?" 
+msgstr "Looking for something?" 
+ 
+msgid "Sexe..." 
+msgstr "Sex..." 
+ 
+msgid "Femme" 
+msgstr "Woman" 
+ 
+msgid "Homme" 
+msgstr "Man" 
+ 
+msgid "Fille" 
+msgstr "Girl" 
+ 
+msgid "Garçon" 
+msgstr "Boy" 
+ 
+msgid "Bébé" 
+msgstr "Baby" 
+ 
+msgid "Prix..." 
+msgstr "Price..." 
+ 
+msgid "Moins de 20 €" 
+msgstr "Less than €20" 
+ 
+msgid "Moins de 30 €" 
+msgstr "Less than €30" 
+ 
+msgid "Moins de 50 €" 
+msgstr "Less than €50" 
+ 
+msgid "Moins de 75 €" 
+msgstr "Less than €75" 
+ 
+msgid "Plus de 75 €" 
+msgstr "More than €75" 
+ 
+msgid "Chercher" 
+msgstr "Search" 
+ 
+msgid "Recherche avancée" 
+msgstr "Advanced search" 
+ 
+msgid "Catalogue de bijoux Services4all" 
+msgstr "Catalogue jewelry Daisy" 
+ 
+msgid "Catalogue de bijoux argent Services4all" 
+msgstr "Catalog Jewelry Silver Daisy" 
+ 
+msgid "catalogue bijoux Services4all" 
+msgstr "catalogue jewelry Daisy" 
+ 
+msgid "Bijoux en promotions" 
+msgstr "Jewelry on sale" 
+ 
+msgid "Précédent" 
+msgstr "Previous" 
+ 
+msgid "Suivant" 
+msgstr "Next" 
+ 
+msgid "Nos idées cadeaux" 
+msgstr "Our gift ideas" 
+ 
+msgid "Une gravure reste éternelle" 
+msgstr "An engraving is eternal" 
+ 
+msgid "Sexe :" 
+msgstr "Sex:" 
+ 
+msgid "Type :" 
+msgstr "Type:" 
+ 
+msgid "Marque :" 
+msgstr "Brand:" 
+ 
+msgid "Créateur :" 
+msgstr "Creator:" 
+ 
+msgid "Sexe :" 
+msgstr "Sex:" 
+ 
+msgid "Lancer ma recherche" 
+msgstr "Start my search" 
+ 
+msgid "Matière :" 
+msgstr "Material:" 
+ 
+msgid "Trier par :" 
+msgstr "Sort by:" 
+ 
+msgid "Nouveauté" 
+msgstr "Novelty" 
+ 
+msgid "Prix" 
+msgstr "Price" 
+ 
+msgid "Aucun  article trouvé." 
+msgstr "No article found." 
+ 
+msgid "Notre Boutique" 
+msgstr "Our shop" 
+ 
+msgid "Partager cet article :" 
+msgstr "Share this article:" 
+ 
+msgid "Référence :" 
+msgstr "Reference:" 
+ 
+msgid "TTC" 
+msgstr "INCL. VAT" 
+ 
+msgid "Quantité :" 
+msgstr "Quantity:" 
+ 
+msgid "Ajouter au panier" 
+msgstr "Add to cart" 
+ 
+msgid "simulaires" 
+msgstr "so" 
+ 
+msgid "Voir plus d'articles" 
+msgstr "See more blogs" 
+ 
+msgid "Ajouter à mes bijoux préférés" 
+msgstr "Add to my favorite jewelry" 
+ 
+msgid "La personnalisation se traduit par une gravure au diamant sur le bijou de votre choix, d'un prénom, d'initiales, d'une date, d'un logo ou même d'un court message personnel... pour soi-même ou pour offrir." 
+msgstr "Customizing translates an engraving diamond on the jewel of your choice, a first name, initials, of a date, with a logo or even with a short personal message... for yourself or to offer." 
+
+msgid "Personnalisation par la gravure !" 
+msgstr "Personalized Jewelry! " 
+
+msgid "A la pointe de diamant, votre gravure réalisée avec les meilleurs outils. Nous personnalisons avec des lettres, des chiffres, un logo ou une image. Envoyez nous un" 
+msgstr "Diamond Engraving carried out with the best tools. We personalize with letters, numbers figures, a logo or an image. Send us a" 
+
+msgid " si vous n’êtes pas certain." 
+msgstr " if you are not sure." 
+ 
+msgid " Voir nos bijoux à graver." 
+msgstr " See Our jewelry for engraving." 
+
+msgid "Rechercher..." 
+msgstr "Search for..." 
+
+msgid "satin-argent" 
+msgstr "satin-silver"
+
+msgid "argent" 
+msgstr "silver"
+
+msgid "Nous vous proposons" 
+msgstr "We offer"
+
+msgid "bijoux" 
+msgstr "jewelry"
+
+msgid "Infos paiement & livraison" 
+msgstr "Payment and delivery"
+
+msgid "Frais de port :" 
+msgstr "Shipping:"
+
+msgid "à partir de" 
+msgstr "from"
+
+msgid "Plus de détails" 
+msgstr "More details"
+
+msgid "Livraison :" 
+msgstr "Delivery:"
+
+msgid "jour" 
+msgstr "day"
+
+msgid "Sous condition" 
+msgstr "conditional"
+
+msgid "Modes de paiement :" 
+msgstr "Payment Methods:"
+
+msgid "Carte bancaire, PayPal" 
+msgstr "Credit Card, PayPal"
+
+msgid "Satisfait ou remboursé" 
+msgstr "Satisfied or reimbursed"
+msgid "Bijoux spécial fête des mères" 
+msgstr "Mothers day special jewelry" 
+ 
+msgid "En stock :" 
+msgstr "In stock:" 
+ 
+msgid "similaires" 
+msgstr "similar"  
+
+msgid "bijoux" 
+msgstr "jewelry" 
+ 

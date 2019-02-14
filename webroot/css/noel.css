@@ -1,0 +1,4 @@
+#noel { width:938px; height:192px; border-top: 4px solid #dfdcd8;}
+#noel-col-1 {float:left; width:257px; height:162px; margin-left:5px;}
+#noel-col-2 {float:right; width:671px; height:162px; }
+#noel-col-1 h2 a {display:block; width:257px; height:152px; margin-top:8px; background:url(../img/noel/vignette_noel.png); text-indent:-9999px;}

@@ -1,0 +1,141 @@
+#carrousel{
+    /*border: solid 5px #e7dbc5;*/
+    width: 960px;
+    height: 259px;
+    margin: 16px 0 1px auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.slide{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+	width: 958px;
+    height: 230px;
+	background: #fff url('/images/site/bg_slide.png') repeat-x top center;
+	border: 1px solid #C0C0C0;
+}
+
+.slide table{
+	height: 230px;
+}
+.slide .img{
+	margin: 14px;
+	background: #fff;
+	padding: 10px;
+}
+
+.slide .description{
+	padding: 14px 14px 14px 0;
+}
+
+.slide .description .titre a{
+	display: block;
+	font-size: 20px;
+	font-weight: bold;
+	color: #93117e;
+	border-bottom: 1px dotted #93117e;
+	padding: 0 0 4px 0;
+	margin: 0 0 20px 0;
+}
+
+.slide .description .titre a:hover{
+	color: #73015e;
+	border-bottom: 1px dotted #73015e;
+}
+
+.slide .description .texte{
+	width: 400px;
+	text-align: justify;
+	font-size: 13px;
+	font-family: Tahoma;
+	line-height: 19px;
+}
+
+.slide .description .info{
+	width: 200px;
+	float: right;
+	margin: 0 45px 0 10px;
+	text-align: center;
+}
+
+.slide .description .info .prix{
+	margin: 7px 0;
+	font-size: 22px;
+}
+
+.slide .bottom{
+	margin: 5px 0px 14px 0px;
+}
+
+.slide .bottom a{
+	text-decoration: underline;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.slide .bottom a:hover{
+	color: #707070;
+}
+
+.slide .vignette{
+	right: 0;
+	left: auto;
+}
+
+.title{
+    position: absolute;
+	margin: 0px 0px 0px 3px;
+    padding-left: 12px;
+    width: 603px;
+    line-height: 35px;
+    height: 35px;
+    bottom: 0;
+    left: 0;
+    background: url('/images/opaque.png') top left repeat;
+	color: #fff;
+	font-weight: bold;
+	font-size: 18px;
+	
+}
+
+
+.navigation{
+    position: absolute;
+    top: 8px;
+    right: 0;
+}
+
+.titre_home{
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 18px;
+	font-weight: normal;
+	color: #767676;
+}
+
+.navigation span{
+    background:#C0C0C0;
+    color:#C0C0C0;
+    padding: 0px 3px;
+	font-size: 9px;
+	font-weight: bold;
+    cursor:pointer;
+    margin: 0 0 0 9px;
+	border-radius: 10px; 
+    -moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.navigation span.active{
+    background:#93117e;
+    color:#93117e;
+	padding: 1px 4px;
+}
+
+.navigation span:hover{
+	background:#B0B0B0;
+    color:#B0B0B0;
+}

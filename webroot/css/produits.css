@@ -1,0 +1,410 @@
+/*****************************************
+produit
+***************************/
+.bonnes_affaires_promo{
+	width: 100%;
+	margin: 0 0 12px 0;
+	height: 240px;
+	background: #EEE;
+}
+
+.produits .cellule_gauche {
+	border: 1px solid #e4e4e4;
+	margin: 10px 5px 0px 0px;
+	height: 290px;
+	padding: 8px;
+	text-align: center;
+	background: #fff;
+	position: relative;
+}
+
+.produits .cellule_centre {
+	border: 1px solid #e4e4e4;
+	margin: 10px 5px 0px 5px;
+	height: 290px;
+	padding: 8px;
+	text-align: center;
+	background: #fff;
+	position: relative;
+}
+
+.produits .cellule_droite {
+	border: 1px solid #e4e4e4;
+	margin: 10px 0px 0px 5px;
+	height: 290px;
+	padding: 8px;
+	text-align: center;
+	background: #fff;
+	position: relative;
+}
+
+.produits .img{
+	width: 100%;
+	height: 130px; 
+	padding: 10px 0;
+	position: relative;
+	margin: 0px auto 6px auto;
+	/*background: #fff;*/
+}
+
+
+.produits .cateproduits {
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	margin: 0 0 6px 0;
+}
+
+.produits .cateproduits a{
+	color: #2eabf4;
+}
+
+.produits .titre, .produits .titre a {
+	font-size: 13px;
+	font-weight: bold;
+	color: #505050;
+}
+
+.produits .titre2{
+	margin: 0 0 5px 0;
+}
+
+.produits .titre2 a{
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #93117e;
+}
+
+.produits .prix_barre{
+	height: 19px;
+	color: #BDCD00;
+	text-decoration: line-through;
+	position: relative;
+	margin: 5px auto 0px auto;
+	text-align: center;
+	font: bold 14px "Lucida Grande", Lucida, Verdana, sans-serif
+}
+
+.produits .prix {
+	color: #93117e;
+	font: bold 18px "Lucida Grande", Lucida, Verdana, sans-serif;
+	margin-top: 0px;
+}
+
+.produits .otherbutton {
+	position: static;
+	display:block;
+	height: 34px;
+	width: 195px;
+	cursor: pointer;
+	background: url(/images/site/panierstik.png) no-repeat -131px -304px;
+	margin-top: 0px;
+}
+
+	
+.produits .otherbutton span.hover {
+	position: absolute;
+	display: block;
+	height: 34px;
+	width: 195px;
+	background: url(/images/site/panierstik.png) no-repeat -131px -265px;
+}
+
+.produits .homebutton {
+	height: 34px;
+	width: 195px;
+	cursor: pointer;
+	background: url(/images/site/panierstik.png) no-repeat -131px -150px;
+	margin-top: 5px;
+}
+
+	
+.produits .homebutton span.hover {
+	position: absolute;
+	display: block;
+	height: 34px;
+	width: 195px;
+	background: url(/images/site/panierstik.png) no-repeat -131px -190px;
+}
+
+.produits .fil_ariane{
+	margin: 12px 0 0 0;
+	font-weight: bold;
+}
+
+.produits .fil_ariane span a{
+	color: #93117e;
+}
+
+.vignette{
+	width: 83px;
+	line-height: 84px;
+	position : absolute;
+	top: 10px;
+	left: 10px;
+	background: url('/images/site/vignette.png') no-repeat center center;
+	color: #fff;
+	font-weight: bold;
+	font-size: 22px;
+	font-family: Arial;
+	text-align: center;
+}
+
+.produits .otherbutton {
+	position: absolute;
+	display:block;
+	height: 34px;
+	width: 195px;
+	cursor: pointer;
+	background: url(/images/site/panierstik.png) no-repeat -131px -304px;
+	margin-top: 0px;
+}
+
+	
+.produits .otherbutton span.hover {
+	position: absolute;
+	display: block;
+	height: 34px;
+	width: 195px;
+	background: url(/images/site/panierstik.png) no-repeat -131px -265px;
+}
+
+/***************************
+fiche produit
+****************************/
+.produit .detail {
+	text-align: justify;
+	border-radius: 10px 10px; 
+	-moz-border-radius: 10px; 
+	-webkit-border-radius: 10px; 
+	padding: 12px;
+	border: 1px solid #ccc8b7;
+	margin-top: 11px;
+}
+
+.produit .detail .titre{
+	font-size: 15px;
+	font-weight: bold;
+	color: #BDCD00;
+	margin: 0 0 8px 0;
+}
+
+.produit .detail .entete{
+	background: #eee;
+	padding: 8px;
+	margin: 0px 0px 10px 0px;
+	
+}
+
+.produit .detail .entete .titre{
+	font-size: 13px;
+	font-weight: bold;
+	color: #606060;
+	margin: 0px 0px 4px 0px;
+}
+
+.produit .detail ul{
+	padding: 0;
+}
+
+.produit .detail li{
+	list-style-type: none;
+}
+
+.produit .detail a{
+	color: #93117e;
+	font-weight: bold;
+}
+
+.produit .detail a:hover{
+	text-decoration: underline;
+}
+
+.produit .imagecadre {
+	background: #fff; 
+	padding: 0; 
+	margin: 0px;
+	border: 1px solid #CCC8B7;
+}
+
+.produit .imagecadre a img{
+	display: block;
+	position: relative;
+	margin: 0px auto;
+}
+
+.produit .separation{
+	padding-left: 10px;
+}
+
+.produit .prix {
+	color: #93117e;
+	font: bold 22px "Lucida Grande", Lucida, Verdana, sans-serif;
+	position: relative;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+
+.produit .prix_barre{
+	color: #BDCD00;
+	text-decoration: line-through;
+	position: relative;
+	margin: 0px auto 0px auto;
+	text-align: center;
+	font: bold 16px "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+.produit .infobulle{
+	background: #e7e6de none repeat-y center top;	
+	font-size: 12px;
+	font-weight: bold;
+	border-radius: 10px 10px; 
+	-moz-border-radius: 10px;
+	padding: 10px;
+	position: relative;
+	margin: 8px auto 0px auto;
+	list-style-type: none;
+}
+
+.produit .infobulle li{
+	margin: 1px 5px 1px 5px;
+}
+
+.produit .infobulle li a{
+	text-decoration: underline;
+}
+
+.produit .infobulle li a:hover{
+	color: #93117e;
+}
+
+.produit .commander {
+	display: block;
+	height: 69px;
+	width: 250px;
+	background: url(/images/site/panierstik.png) no-repeat -68px -104px;
+	position: relative;
+	margin: 0px auto 20px auto;
+}
+
+.produit .commander:hover {
+	background: url(/images/site/panierstik.png) no-repeat -68px -186px;
+}
+
+.produit .refvoir {
+	color: #BECA00;
+	margin-bottom: 25px;
+}
+
+.produit .titre_gros {
+	color: #2eabf4;
+	font-size: 20px;
+}
+
+.produit .fiche{
+	position: relative;
+}
+
+.produit .fiche .vignette2 {
+	width: 85px;
+	line-height: 84px;
+	position : absolute;
+	top: 0;
+	left: 75%;
+	background: url('/images/site/panierstik.png') no-repeat -126px -9px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 22px;
+	text-align: center;
+	height: 94px;
+}
+
+.produit .img{
+	border: 1px solid #bdbdbd;
+	padding: 4px;
+}
+
+
+.produits .liste_verticale{
+
+}
+
+.produits .liste_verticale table{
+	margin: 0 0 8px 0;
+	border: 1px solid #E4E4E4;
+	background: #F8F8F8;
+}
+
+.produits .liste_verticale td{
+	padding: 6px;
+}
+
+.produits .liste_verticale .description table{
+	border: none;
+	vertical-align: bottom;
+}
+
+.produits  .liste_verticale .otherbutton {
+	position: static;
+	display:block;
+	height: 34px;
+	width: 195px;
+	cursor: pointer;
+	background: url(/images/site/panierstik.png) no-repeat -131px -304px;
+	margin-top: 2px;
+}
+
+.produits  .liste_verticale .otherbutton:hover {
+	position: static;
+	display: block;
+	height: 34px;
+	width: 195px;
+	background: url(/images/site/panierstik.png) no-repeat -131px -265px;
+}
+
+
+
+.choix_paiement{
+	margin: 10px 0;
+}
+
+.choix_paiement td.gauche{
+	text-align: justify;
+	padding: 20px;
+	border-right: 1px solid #E2E2E2;
+	vertical-align: top;
+}
+
+.choix_paiement .titre{
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	color: #93117e;
+}
+
+.choix_paiement td.droite{
+	text-align: justify;
+	padding: 20px;
+	vertical-align: top;
+}
+
+/************************
+fil d'ariane
+************************/
+
+.fil_ariane{
+	margin: 0px 0px 14px 0px;
+	font-weight: normal;
+	font-size: 11px;
+}
+
+.fil_ariane a{
+	color: #505050;
+	
+}
+
+.fil_ariane a:hover{
+	text-decoration: underline;
+	color: #93117e;
+}

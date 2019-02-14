@@ -1,0 +1,192 @@
+msgid "Identifiez-vous en tant que Pro." 
+msgstr "Identify yourself as a Pro." 
+ 
+msgid "Déjà enregistré ?" 
+msgstr "Already registered?" 
+ 
+msgid "E-mail :" 
+msgstr "E-mail:" 
+ 
+msgid "Mot de passe :" 
+msgstr "Password:" 
+ 
+msgid "Identifiez-vous" 
+msgstr "Identify you" 
+ 
+msgid "Vous avez oublié votre mot de passe ?" 
+msgstr "Have you forgotten your password?" 
+ 
+msgid "Créez votre compte gratuitement !" 
+msgstr "Create your account for free!" 
+ 
+msgid "Saisissez votre adresse e-mail pour créer votre compte." 
+msgstr "Enter your email address to create your account." 
+ 
+msgid "Adresse e-mail" 
+msgstr "E-mail address" 
+ 
+msgid "Créer un compte" 
+msgstr "Create an account" 
+ 
+msgid "Monsieur" 
+msgstr "Mr" 
+ 
+msgid "Madame" 
+msgstr "Madam" 
+ 
+msgid "Créez votre compte" 
+msgstr "Create your account" 
+ 
+msgid "Vous êtes un :" 
+msgstr "You are a:" 
+ 
+msgid "Particulier" 
+msgstr "Particular" 
+ 
+msgid "Professionnel" 
+msgstr "Professional" 
+ 
+msgid "Créateur" 
+msgstr "Creator" 
+ 
+msgid "Confirmer le mot de passe :" 
+msgstr "Confirm the password:" 
+ 
+msgid "Civilité :  " 
+msgstr "Civility:  " 
+ 
+msgid "Nom :" 
+msgstr "Name:" 
+ 
+msgid "Prénom :" 
+msgstr "First name:" 
+  
+msgid "Nom" 
+msgstr "Name" 
+ 
+msgid "Prénom" 
+msgstr "First name" 
+ 
+msgid "Téléphone :" 
+msgstr "Phone:" 
+ 
+msgid "Adresse :" 
+msgstr "Address:" 
+ 
+msgid "Code postal :" 
+msgstr "Zip code:" 
+ 
+msgid "Ville :" 
+msgstr "City:" 
+ 
+msgid "Pays : " 
+msgstr "Country: " 
+  
+msgid "Téléphone" 
+msgstr "Phone" 
+ 
+msgid "Adresse" 
+msgstr "Address" 
+ 
+msgid "Adresse (suite)" 
+msgstr "Address (continued)" 
+ 
+msgid "Code postal" 
+msgstr "Zip code" 
+ 
+msgid "Ville" 
+msgstr "City" 
+ 
+msgid "Je souhaite recevoir la newsletter Services4all" 
+msgstr "I wish to receive the newsletter Services4all" 
+ 
+msgid "Je souhaite recevoir les offres partenaires" 
+msgstr "I would like to receive offers from partners" 
+ 
+msgid "J'accepte les conditions générales" 
+msgstr "I accept the General conditions" 
+  
+msgid " Modifier " 
+msgstr " Edit " 
+ 
+msgid "Je crée mon compte" 
+msgstr "I create my account" 
+ 
+msgid "Adresse e-mail :" 
+msgstr "E-mail address:" 
+ 
+msgid "Mot de passe oublié" 
+msgstr "Forgot password" 
+ 
+msgid "Mot de passe oublié :" 
+msgstr "Forgot your password:" 
+ 
+msgid "Veuillez saisir votre adresse email :" 
+msgstr "Please enter your email address:" 
+ 
+msgid "Valider" 
+msgstr "Validate" 
+ 
+msgid "Mes informations personnelles" 
+msgstr "My personal information" 
+ 
+msgid "Modifier ma photo" 
+msgstr "Change my picture" 
+ 
+msgid "Modifier ma photo de profil" 
+msgstr "Change my profile picture" 
+ 
+msgid "Type de compte :" 
+msgstr "Type of account:" 
+ 
+msgid "Civilité :" 
+msgstr "Civility:" 
+ 
+msgid "Pseudo :" 
+msgstr "Nickname:" 
+ 
+msgid "Email :" 
+msgstr "Email:" 
+ 
+msgid "Modifier le mot de passe" 
+msgstr "Change the password" 
+ 
+msgid "Modifier mes informations" 
+msgstr "Change my information" 
+ 
+msgid "Modifier mes informations" 
+msgstr "Change my information" 
+ 
+msgid "Modifier mes informations" 
+msgstr "Change my information" 
+ 
+msgid "Bienvenue" 
+msgstr "Welcome" 
+ 
+msgid "Derniers Messages" 
+msgstr "Latest posts" 
+ 
+msgid "Aucun nouveau message." 
+msgstr "No new message." 
+ 
+msgid "Dernières Commandes" 
+msgstr "Last orders" 
+ 
+msgid "Derniers articles en attente de validation" 
+msgstr "Latest articles waiting for validation" 
+ 
+msgid "Aucun article." 
+msgstr "No article." 
+ 
+msgid "Derniers articles modifiés en attente de validation" 
+msgstr "Latest modified waiting for validation" 
+ 
+msgid "Aucun article." 
+msgstr "No article." 
+ 
+msgid "Derniers Articles mis en vente" 
+msgstr "Latest Articles on sale" 
+ 
+msgid "Aucun article." 
+msgstr "No article." 
+ 

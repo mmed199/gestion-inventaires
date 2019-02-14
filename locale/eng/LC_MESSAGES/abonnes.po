@@ -1,0 +1,66 @@
+msgid "Je souhaite recevoir les newsletters et les offres Services4all" 
+msgstr "I wish to receive newsletters and offers Services4all" 
+ 
+msgid "Je souhaite recevoir les offres partenaires Services4all" 
+msgstr "I would like to receive offers from partners Services4all" 
+ 
+msgid "Bons Plans, Concours, Soldes..." 
+msgstr "Good Plans, competition, sales..." 
+ 
+msgid " Valider " 
+msgstr " Validate " 
+ 
+msgid "Valider" 
+msgstr "Validate" 
+ 
+msgid "Abonnement" 
+msgstr "Subscription" 
+ 
+msgid "Votre e-mail : " 
+msgstr "Your e-mail: " 
+ 
+msgid "Votre nom : " 
+msgstr "Your name: " 
+  
+msgid "Sexe:" 
+msgstr "Gender:" 
+ 
+msgid "En vous inscrivant à notre newsletter" 
+msgstr "By subscribing to our newsletter" 
+ 
+msgid "En vous inscrivant à notre newsletter," 
+msgstr "By subscribing to our newsletter," 
+ 
+msgid " vous êtes sûrs d’être informés des nouveautés Services4all qui pourraient faire de beaux cadeaux à offrir." 
+msgstr " you are sure to be informed of new Services4all that could make beautiful gifts to offer." 
+ 
+msgid " Par ailleurs, une surprise vous attend lors de l’inscription. " 
+msgstr " On the other hand, a surprise awaits you at registration. " 
+ 
+msgid "L’inscription à notre newsletter nécessite très peu d’informations obligatoires…." 
+msgstr "Registration for our newsletter requires very little information..." 
+ 
+msgid "Votre adresse email, avec votre nom, si vous le souhaitez," 
+msgstr "Your email address, with your name, if you want to," 
+ 
+msgid " il est plus facile de communiquer avec vous !" 
+msgstr " It is easier to communicate with you!" 
+ 
+msgid "Conformément à la loi informatique et libertés du 6 janvier 1978," 
+msgstr "In accordance with the law and freedoms of January 6, 1978," 
+ 
+msgid "  vous disposez d'un droit d'accès et de rectification aux données vous concernant." 
+msgstr "  you have a right of access and of correction to the data concerning you." 
+ 
+msgid " Pour l'exercer," 
+msgstr " To exercise this right," 
+ 
+msgid "  il vous suffit d'envoyer un mail contact@Services4all.fr." 
+msgstr "  just send an email contact@Services4all.fr." 
+ 
+msgid "  Services4all s'engage à ne céder ou louer ces informations à aucune organisation ou entreprise extérieure sans consentement de votre part. " 
+msgstr "  Services4all is committed to transfer or rent this information to any organization or external company without your consent. " 
+ 
+msgid "  s'engage à ne céder ou louer ces informations à aucune organisation ou entreprise extérieure sans consentement de votre part. " 
+msgstr "  undertakes not to transfer or rent this information to any organization or external company without your consent. " 
+ 

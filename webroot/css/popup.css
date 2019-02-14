@@ -1,0 +1,8 @@
+.popup{ display:none;  padding:10px 15px 10px 15px; position:absolute; background:#F6CED8; border:5px solid #FE2E64; width:480px; top:450px; left:50%; margin-left:-240px; margin-top:-225px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -html-border-radius: 5px; border-radius: 5px; behavior: url(htcs/border-radius.htc); }
+.cross{position:absolute;left:50%; margin-left:240px; top:0px;}
+
+.pics { height: 125px; width: 295px; padding:0; margin:0; overflow: hidden }
+.pics img { height: 120px; width: 290px; padding: 0px; border: 1px solid #ccc; background-color: #eee; top:0; left:0 }
+.pics img {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px;
+}

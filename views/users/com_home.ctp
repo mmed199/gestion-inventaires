@@ -1,0 +1,1 @@
+Bienvenue <?php echo $session->read('Auth.User.nom') ; ?>

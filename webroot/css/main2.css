@@ -1,0 +1,20 @@
+body{
+	background: #fff;
+	padding: 0;
+	margin: 0;
+}
+
+#bg_body{
+	width: 1060px;
+	position: relative;
+	margin: 0 auto;
+	background: #eee;
+	opacity: .5;
+}
+
+#body{
+	width: 990px;
+	position: relative;
+	margin: 0 auto;
+	background: #fff;
+}

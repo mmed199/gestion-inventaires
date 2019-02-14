@@ -1,0 +1,21 @@
+.presse_top{
+	height:6px;
+	width:840px;
+	background-image: url(/img/presse/presse_top.png);
+	background-repeat: no-repeat;
+}
+.presse_midle{
+	width:820px;
+	background-image: url(/img/presse/presse_midle.png);
+	background-repeat: repeat-y;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.press_down{
+	width:840px;
+	height:9px;
+	background-image: url(/img/presse/press_down.png);
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,72 @@
+msgid "produits" 
+msgstr "products" 
+ 
+msgid "Notice" 
+msgstr "Record" 
+ 
+msgid "Suivant »" 
+msgstr "Next »" 
+ 
+msgid "« Précédent" 
+msgstr "« Previous" 
+ 
+msgid "Suivant" 
+msgstr "Next" 
+ 
+msgid "The view for %1$s%2$s was not found." 
+msgstr "The view for %1$ s %2$ s was not found." 
+ 
+msgid "The action %1$s is not defined in controller %2$s" 
+msgstr "The action %1$ s is not defined in controller %2$ s" 
+ 
+msgid "Create %1$s%2$s in file: %3$s." 
+msgstr "Create %1$ s %2$ s in file: %3$ s." 
+ 
+msgid "Email3" 
+msgstr "Replace(request("email3"),"'","'")" 
+ 
+msgid "Email4" 
+msgstr "Enamelled4" 
+ 
+msgid "Database table %1$s for model %2$s was not found." 
+msgstr "Database table %1$ s for model %2$ s was not found." 
+ 
+msgid "Database table %1$s for model %2$s was not found." 
+msgstr "Database table %1$ s for model %2$ s was not found." 
+ 
+msgid "Database table %1$s for model %2$s was not found." 
+msgstr "Database table %1$ s for model %2$ s was not found." 
+ 
+msgid "conditions-generales.html" 
+msgstr "conditions - generales.html" 
+ 
+msgid "mentions-legales.html" 
+msgstr "imprint-legales.html" 
+ 
+msgid "qui-sommes-nous.html" 
+msgstr "about-us.html" 
+ 
+msgid "livraison-bijou-Services4all.html" 
+msgstr "delivery-bijou-Services4all.html" 
+ 
+msgid "nous-rejoindre.html" 
+msgstr "join-us.html" 
+ 
+msgid "espace-presse.html" 
+msgstr "press-area.html" 
+ 
+msgid "conditions-generales.html" 
+msgstr "generales-conditions.html" 
+
+msgid "conseils-d-entretien-des-bijoux.html" 
+msgstr "Tips-d-maintenance-des - bijoux.html" 
+ 
+msgid "conseils-d-entretien-des-bijoux.html" 
+msgstr "Tips-d-maintenance-des - bijoux.html" 
+ 
+msgid "conseils-d-entretien-des-bijoux.html" 
+msgstr "Tips-d-maintenance-des - bijoux.html" 
+ 
+msgid "conseils-d-entretien-des-bijoux.html" 
+msgstr "Tips-d-maintenance-des - bijoux.html" 
+ 
